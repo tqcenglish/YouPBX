@@ -58,3 +58,4 @@ target/
 
 upload/
 .idea/
+data.db
